@@ -1,0 +1,19 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patipol Sittiyanon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-sanitizer": "^1.0.2",
+    "js": "^0.1.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.4"
+  }
+}
